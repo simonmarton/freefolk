@@ -1,0 +1,182 @@
+[
+  {
+    "id": "tyrion-lannister",
+    "name": "Tyrion Lannister",
+    "avatar": "http://img1.wikia.nocookie.net/__cb20150619051612/gameofthrones/images/thumb/c/c8/Tyrion-TheDanceofDragons.jpg/250px-Tyrion-TheDanceofDragons.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "cersei-lannister",
+    "name": "Cersei Lannister",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150617003215/gameofthrones/images/thumb/f/f6/Cersei_Lannister_%28S05E10%29.jpg/250px-Cersei_Lannister_%28S05E10%29.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "daenerys-targaryen",
+    "name": "Daenerys Targaryen",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150617180426/gameofthrones/images/thumb/9/9b/Daenerys-MothersMercy.jpg/250px-Daenerys-MothersMercy.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "arya-stark",
+    "name": "Arya Stark",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20150617002711/gameofthrones/images/thumb/7/72/Arya-Mercy.jpg/250px-Arya-Mercy.webp",
+    "isAlive": true
+  },
+  {
+    "id": "jorah-mormont",
+    "name": "Jorah Mormont",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150605193636/gameofthrones/images/thumb/4/46/Jorah-hd-still-S5E8.jpg/250px-Jorah-hd-still-S5E8.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "jaime-lannister",
+    "name": "Jaime Lannister",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150422205941/gameofthrones/images/thumb/8/81/Jaime_Lannister_%28S05E02%29.jpg/250px-Jaime_Lannister_%28S05E02%29.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "samwell-tarly",
+    "name": "Samwell Tarly",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20140519172406/gameofthrones/images/thumb/1/1c/Samwell_Tarly_in_Mockingbird.png/250px-Samwell_Tarly_in_Mockingbird.png",
+    "isAlive": true
+  },
+  {
+    "id": "theon-greyjoy",
+    "name": "Theon Greyjoy",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150521020701/gameofthrones/images/thumb/0/0a/Reek_in_sansas_wedding.jpg/250px-Reek_in_sansas_wedding.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "petyr-baelish",
+    "name": "Petyr Baelish",
+    "avatar": "http://img1.wikia.nocookie.net/__cb20150219051259/gameofthrones/images/thumb/8/87/Littlefinger_S5.jpg/250px-Littlefinger_S5.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "varys",
+    "name": "Varys",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150218060453/gameofthrones/images/thumb/a/ae/Varys_S5.jpg/250px-Varys_S5.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "brienne-of-tarth",
+    "name": "Brienne of Tarth",
+    "avatar": "http://img1.wikia.nocookie.net/__cb20150515051937/gameofthrones/images/thumb/4/40/Brienne_S05E05.jpg/250px-Brienne_S05E05.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "bronn",
+    "name": "Bronn",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20150422210515/gameofthrones/images/thumb/a/ab/Bronn_of_the_Blackwater_S5.jpg/250px-Bronn_of_the_Blackwater_S5.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "brandon-stark",
+    "name": "Brandon Stark",
+    "avatar": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/90/BranSeason8Cropped.PNG",
+    "isAlive": true
+  },
+  {
+    "id": "missandei",
+    "name": "Missandei",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150219051321/gameofthrones/images/thumb/e/e2/MissS5.png/250px-MissS5.png",
+    "isAlive": true
+  },
+  {
+    "id": "podrick-payne",
+    "name": "Podrick Payne",
+    "avatar": "http://img1.wikia.nocookie.net/__cb20140618215825/gameofthrones/images/thumb/6/6c/Podrick-Payne-Profile-HD.png/250px-Podrick-Payne-Profile-HD.png",
+    "isAlive": true
+  },
+  {
+    "id": "margaery-tyrell",
+    "name": "Margaery Tyrell",
+    "avatar": "http://img4.wikia.nocookie.net/__cb20150416014255/gameofthrones/images/thumb/6/6e/MargS5.png/250px-MargS5.png",
+    "isAlive": true
+  },
+  {
+    "id": "davos-seaworth",
+    "name": "Davos Seaworth",
+    "avatar": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/c9/Davos_Season_8.jpg/revision/latest/scale-to-width-down/333",
+    "isAlive": true
+  },
+  {
+    "id": "melisandre",
+    "name": "Melisandre",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20150604204859/gameofthrones/images/thumb/7/7c/Melisandre_The_Dance_of_Dragons.jpg/250px-Melisandre_The_Dance_of_Dragons.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "gilly",
+    "name": "Gilly",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20140615212038/gameofthrones/images/thumb/0/0e/Gilly.png/250px-Gilly.png",
+    "isAlive": true
+  },
+  {
+    "id": "tommen-baratheon",
+    "name": "Tommen Baratheon",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20150504161509/gameofthrones/images/thumb/9/94/Tommen_sons_of_the_harpy.jpg/250px-Tommen_sons_of_the_harpy.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "loras-tyrell",
+    "name": "Loras Tyrell",
+    "avatar": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/02/LorasTyrell5X06.PNG",
+    "isAlive": true
+  },
+  {
+    "id": "tormund",
+    "name": "Tormund",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20150415044031/gameofthrones/images/4/46/TormundGS5.png",
+    "isAlive": true
+  },
+  {
+    "id": "grey-worm",
+    "name": "Grey Worm",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20140618231552/gameofthrones/images/thumb/a/a8/Grey_Worm_Profile.jpg/250px-Grey_Worm_Profile.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "roose-bolton",
+    "name": "Roose Bolton",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150618122950/gameofthrones/images/thumb/f/f2/Roose_Bolton-S05E06.png/250px-Roose_Bolton-S05E06.png",
+    "isAlive": true
+  },
+  {
+    "id": "gendry",
+    "name": "Gendry",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20140406203314/gameofthrones/images/thumb/4/4f/Larges3-ep1-people-profilepic-gendry-800x800.jpg/250px-Larges3-ep1-people-profilepic-gendry-800x800.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "ramsay-bolton",
+    "name": "Ramsay Bolton",
+    "avatar": "http://img4.wikia.nocookie.net/__cb20150617120152/gameofthrones/images/thumb/5/51/Ramsay_Bolton-S05E10.png/250px-Ramsay_Bolton-S05E10.png",
+    "isAlive": true
+  },
+  {
+    "id": "daario-naharis",
+    "name": "Daario Naharis",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150619210538/gameofthrones/images/thumb/c/c0/004.jpg/250px-004.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "jaqen-hghar",
+    "name": "Jaqen H'ghar",
+    "avatar": "http://img2.wikia.nocookie.net/__cb20150421020227/gameofthrones/images/thumb/3/3b/AManSeason5.jpg/250px-AManSeason5.jpg",
+    "isAlive": true
+  },
+  {
+    "id": "lancel-lannister",
+    "name": "Lancel Lannister",
+    "avatar": "http://img3.wikia.nocookie.net/__cb20150614183043/gameofthrones/images/thumb/1/15/Lancel_S5E4.png/250px-Lancel_S5E4.png",
+    "isAlive": true
+  },
+  {
+    "id": "night-king",
+    "name": "Night King",
+    "avatar": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1f/Night_King_BTW.jpg/revision/latest?cb=20171013162809",
+    "isAlive": true
+  }
+]
